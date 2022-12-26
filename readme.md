@@ -12,9 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33beaf630caf8b8625819_ojVfiY9N9W7SNblUwsMuRdEHfZaK7gTn4I8oA596jsQz0gHhJ0msEceYVq2C5afZ4rDCvhqx1EEedzTz664Vi3aDScXL2jnzV_uuWriJbW-wldzhpJDT-TNOPvgusibLRCqaY5pJ.png](https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33beaf630caf8b8625819_ojVfiY9N9W7SNblUwsMuRdEHfZaK7gTn4I8oA596jsQz0gHhJ0msEceYVq2C5afZ4rDCvhqx1EEedzTz664Vi3aDScXL2jnzV_uuWriJbW-wldzhpJDT-TNOPvgusibLRCqaY5pJ.png)" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=KaustavLaskar&icon=0&color=0)](https://visitcount.itsvg.in)
 
