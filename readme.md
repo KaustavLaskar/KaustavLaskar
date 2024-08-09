@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kaustav Laskar</h1>
 <h3 align="center">| Passionate about AIML, GenAI, Web DEv | Open-source enthusiast |</h3>
 
+[![](https://visitcount.itsvg.in/api?id=KaustavLaskar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 - 🌱 I’m currently learning **DL, GenAI, Langchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaustavLaskar]
@@ -20,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KaustavLaskar&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
