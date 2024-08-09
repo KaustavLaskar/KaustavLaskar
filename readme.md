@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustav Laskar</h1>
 <h3 align="center">| Passionate about AIML, GenAI, Web DEv | Open-source enthusiast |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shitan198u&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
 - 🌱 I’m currently learning **DL, GenAI, Langchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KaustavLaskar]
