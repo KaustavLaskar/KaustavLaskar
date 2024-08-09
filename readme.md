@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustav Laskar</h1>
-<h3 align="center">| Passionate about AIML, DL, GenAI, Web DEv | Open-source enthusiast |</h3>
+<h3 align="center">| Passionate about AIML, GenAI, Web DEv | Open-source enthusiast |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shitan198u&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
