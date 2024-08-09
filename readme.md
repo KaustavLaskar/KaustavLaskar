@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaustav Laskar</h1>
-<h3 align="center">| Passionate about AIML, GenAI, Web DEv | Open-source enthusiast |</h3>
+<h3 align="center">| Passionate about AIML, GenAI, Web Dev, Robotics, Embedded System | Open-source enthusiast |</h3>
 
 [![](https://visitcount.itsvg.in/api?id=KaustavLaskar&icon=0&color=0)](https://visitcount.itsvg.in)
 
